@@ -4,11 +4,11 @@ Attrition is a problem that impacts all businesses, irrespective of geography, i
 
 
 Step I) EDA ( Exploratory Data Analysis ) 
-1. Analysis on categorical ( object column ) column w.r.t. Target column.
+1. Analysis on categorical (object column) column w.r.t. Target column.
 Here Target column = Attrition
 Categorical column like Business Travel, Department,  Education,  Gender, Overtime,  Job Role.
 
-2. Analysis on continuous ( number column ) Data w.r.t. Target column like Age, Income, Distance From Home, Year At Company, Daily Rate.
+2. Analysis on continuous (number column) Data w.r.t. Target column like Age, Income, Distance From Home, Year At Company, Daily Rate.
 
 3. Analysis on Discrete Data w.r.t. Target column like Environment, Job Satisfaction, Work Life Balance.
 
