@@ -12,12 +12,15 @@ Categorical column like Business Travel, Department,  Education,  Gender, Overti
 
 3. Analysis on Discrete Data w.r.t. Target column like Environment, Job Satisfaction, Work Life Balance.
 
+
 Step II) DATA PRE-PROCESSING 
 1. Finding null values. (There is no null values)
 2. Handling categorical data.
 3. Dropping unnecessary data.
 
-Step III) MODEL CREATION 
+
+Step III) MODEL CREATION
+
 Use train-test-split from sklearn model.
 75% data for training and remaining 25% for testing.
 Apply two Machine Learning Classifier.
